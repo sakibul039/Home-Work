@@ -10,3 +10,6 @@ if(Amount>0):
     print("net pay : ",Amount-dis)
 else:
     print("Invalid Amount")
+
+
+    print("Shifat bolod")
