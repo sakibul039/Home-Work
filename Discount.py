@@ -12,4 +12,4 @@ else:
     print("Invalid Amount")
 
 
-    print("Shifat bolod")
+   
